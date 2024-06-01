@@ -1,5 +1,4 @@
-Vox store Data Analysis using Excel
-The primary aim of this project is to create an annual sales report for a store so that it can understand its customers and grow more sales in the next year.
+The primary aim of the project, "Vox store Data Analysis using Excel" is to create an annual sales report for a store so that it can understand its customers and grow more sales in the next year.
 This project involves Data cleaning, Data processing, Data analysing, Data Visualization and sharing Data Insights.
 The report involves
 -> comparing the sales and orders
